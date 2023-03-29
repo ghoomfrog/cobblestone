@@ -90,11 +90,9 @@ Fall damage is taken as the falling distance (in feet) minus the faller's streng
 
 # Trait Bonuses
 
-A character's trait bonuses are added to their respective traits.[^active-equipement] Characters can have as many as desired,[^multiple] each one ranged from 0 to 100 bTP, but they can only start with 100 distributable bTP.
+A character's trait bonuses are added to their respective traits.[^active-equipement] Characters can have as many as desired,[^multiple] but they can only start with 100 distributable bTP.
 &nbsp;
-Trait bonuses can be swapped[^swap] in and out as long as they don't surpass the distributable bTP.
-&nbsp;
-Trait bonuses are consumed before their respective traits.
+Trait bonuses can be swapped[^swap] in and out, and are consumed before their respective traits.
 
 [^active-equipement]: like from active equipement
 [^multiple]: and can have multiple bonuses per trait
