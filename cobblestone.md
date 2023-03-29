@@ -35,7 +35,7 @@ The game starter (GS) narrates the setting. After that, the first player in ever
 
 # Traits
 
-Things in the world have numerical traits that control aspects of gameplay. They are measured in trait points (TP). In case of characters, the higher a trait is, the higher the advantage. Every character has a total of 540 TP to distribute between their traits. The value by which a trait is defined, is both its initial value and peak. The peak is a dynamic maximum that can be increased by levelling up (explained later).
+Things in the world have numerical traits that control aspects of gameplay. They are measured in trait points (TP). In case of characters, the higher a trait is, the higher the advantage. Every character has a total of 580 TP to distribute between their traits. The value by which a trait is defined, is both its initial value and peak. The peak is a dynamic maximum that can be increased by levelling up (explained later).
 &nbsp;
 Characters don't benefit from non-positive traits.
 &nbsp;
@@ -55,19 +55,19 @@ Venomosity    |0 |The ability to inflict the Poisoned condition
 Immunity      |0 |Poison resistance
 Breath        |5 |1 breath is regenerated when breathing, and consumed otherwise. At 0 breath, the character undergoes the Suffocating condition in the next round.
 Mana          |0 |Magic requires and consumes mana equal to the action criterion (explained later).
-Antimagic     |0 |The anti-trait[^anti-trait] of magic: the ability to nullify external magical effects on oneself; characters can choose to neglect this trait when targetted in trait actions.
 Warmth[^T]    |0 |Cold resistance; at 0 warmth, in cold places (below 50T), the character undergoes the Freezing condition in the next round.
 Chill         |0 |Heat resistance; at 0 chill, in hot places (above 50T), the character undergoes the Sizzling condition in the next round.
 Wit           |50|Intellect
 Knowledge     |20|Situational knowledge
-Eyesight      |50|Eyesight level and the radius of vision in decameters; also the anti-trait of invisibility
+Eyesight      |50|Eyesight level and the radius of vision in decameters; also the anti-trait[^anti-trait] of invisibility
 Darkvision[^L]|50|The ability to see in full brightness in and below a certain luminence
 Invisibility  |0 |The anti-trait of eyesight
 Hearing[^A]   |50|The ability to perfectly hear a certain sound amplitude and below; also the anti-trait of stealth
 Stealth       |0 |The anti-trait of hearing
 Charisma      |20|The ability to inflict the Charmed condition
 Illusiveness  |20|The ability to inflict the Illuded condition
-Willpower     |20|The anti-trait of charisma, illusiveness and psychicness; trying to escape a charm depends on this trait.
+Willpower     |20|The anti-trait of charisma; trying to escape a charm depends on this trait.
+Wisdom        |20|The anti-trait of illusiveness
 Intimidation  |0 |The ability to inflict the Intimidated condition
 Courage       |20|The anti-trait of intimidation; trying to overcome an intimidation depends on this trait.
 Religion      |40|Praying depends on this trait.
@@ -75,6 +75,7 @@ Morphability  |0 |Morphing depends on this trait.
 Transcendence |0 |Transtribution (explained later) depend on this trait.
 Alchemy       |0 |Alchemy magic: the maximum mass of objects (in kilograms) that the character can transform
 Psychicness   |0 |Clairvoyance and the ability to mind-read
+Mindshield    |0 |The anti-trait of psychicness
 Telekinesis   |0 |Either telekinesis range (in feet) and telekinesis strength (in kilograms) when moving things, or maximum damage when throwing things, in which case strength is the anti-trait instead of antimagic
 Telemancy     |0 |Teleportation depends on this trait.
 Luck          |50|A percentage that affects the success of trait actions (explained later)
