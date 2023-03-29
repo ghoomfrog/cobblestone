@@ -71,7 +71,7 @@ Intimidation  |0 |The ability to inflict the Intimidated condition
 Courage       |20|The anti-trait of intimidation; trying to overcome an intimidation depends on this trait.
 Religion      |40|Praying depends on this trait.
 Morphability  |0 |Morphing depends on this trait.
-Transcendence |0 |Transtribution actions (explained later) depend on this trait.
+Transcendence |0 |Transtribution (explained later) depend on this trait.
 Alchemy       |0 |Alchemy magic: the maximum mass of objects (in kilograms) that the character can transform
 Psychicness   |0 |Clairvoyance and the ability to mind-read
 Telekinesis   |0 |Either telekinesis range (in feet) and telekinesis strength (in kilograms) when moving things, or maximum damage when throwing things, in which case strength is the anti-trait instead of antimagic
