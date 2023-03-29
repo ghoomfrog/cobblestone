@@ -1,29 +1,29 @@
 ---
 title: Cobblestone
 header-includes:
-	- \usepackage{titling}
-	- \usepackage{fontspec}
-	- \usepackage[margin=1in]{geometry}
-	- \usepackage{sectsty}
-	- \usepackage[splitrule]{footmisc}
-	- \usepackage{fancyhdr}
-	- \setlength{\droptitle}{-0.5in}
-	- \setmainfont{IM Fell DW Pica}
-	- \interfootnotelinepenalty=10000
-	- \pretitle{\begin{center}\fontsize{86.75}{0}\fontspec{IM Fell English SC}\selectfont}
-	- \posttitle{\par\end{center}}
-	- \sectionfont{\fontsize{28}{1.5\baselineskip}\fontspec{IM Fell DW Pica SC}\selectfont}
-	- \subsectionfont{\fontsize{24}{1.5\baselineskip}\fontspec{IM Fell DW Pica SC}\selectfont}
-	- \subsubsectionfont{\fontsize{20}{1.5\baselineskip}\fontspec{IM Fell DW Pica SC}\selectfont}
-	- \AtBeginDocument{\fontsize{18}{1.5\baselineskip}\selectfont}
-	- \renewcommand{\footnotesize}{\fontsize{15}{0}\selectfont}
-	- \pagestyle{fancy}
-	- \fancyhf{}
-	- \fancyfoot[C]{\fontsize{15}{0}\selectfont\thepage}
-	- \renewcommand{\headrulewidth}{0pt}
-	- \renewcommand{\footrulewidth}{0pt}
-	- \fancypagestyle{plain}{\pagestyle{empty}}
-	- \setcounter{page}{0}
+- \usepackage{titling}
+- \usepackage{fontspec}
+- \usepackage[margin=1in]{geometry}
+- \usepackage{sectsty}
+- \usepackage[splitrule]{footmisc}
+- \usepackage{fancyhdr}
+- \setlength{\droptitle}{-0.5in}
+- \setmainfont{IM Fell DW Pica}
+- \interfootnotelinepenalty=10000
+- \pretitle{\begin{center}\fontsize{86.75}{0}\fontspec{IM Fell English SC}\selectfont}
+- \posttitle{\par\end{center}}
+- \sectionfont{\fontsize{28}{1.5\baselineskip}\fontspec{IM Fell DW Pica SC}\selectfont}
+- \subsectionfont{\fontsize{24}{1.5\baselineskip}\fontspec{IM Fell DW Pica SC}\selectfont}
+- \subsubsectionfont{\fontsize{20}{1.5\baselineskip}\fontspec{IM Fell DW Pica SC}\selectfont}
+- \AtBeginDocument{\fontsize{18}{1.5\baselineskip}\selectfont}
+- \renewcommand{\footnotesize}{\fontsize{15}{0}\selectfont}
+- \pagestyle{fancy}
+- \fancyhf{}
+- \fancyfoot[C]{\fontsize{15}{0}\selectfont\thepage}
+- \renewcommand{\headrulewidth}{0pt}
+- \renewcommand{\footrulewidth}{0pt}
+- \fancypagestyle{plain}{\pagestyle{empty}}
+- \setcounter{page}{0}
 ---
 
 # Overview
