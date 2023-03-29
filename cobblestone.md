@@ -22,8 +22,7 @@ header-includes:
 - \fancyfoot[C]{\fontsize{15}{0}\selectfont\thepage}
 - \renewcommand{\headrulewidth}{0pt}
 - \renewcommand{\footrulewidth}{0pt}
-- \fancypagestyle{plain}{\pagestyle{empty}}
-- \setcounter{page}{0}
+- \fancypagestyle{plain}{\pagestyle{fancy}}
 ---
 
 # Overview
