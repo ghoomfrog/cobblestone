@@ -35,7 +35,7 @@ The game starter (GS) narrates the setting. After that, the first player in ever
 
 # Traits
 
-Things have numerical traits that control aspects of gameplay. They are measured in trait points (TP). The higher a trait is, the higher the advantage. Every character has a total of 540 TP to distribute between their traits. The value by which a trait is defined, is both its initial value and peak. The peak is a dynamic maximum that can be increased by levelling up (explained later).
+Things in the world have numerical traits that control aspects of gameplay. They are measured in trait points (TP). The higher a trait is, the higher the advantage. Every character has a total of 540 TP to distribute between their traits. The value by which a trait is defined, is both its initial value and peak. The peak is a dynamic maximum that can be increased by levelling up (explained later).
 &nbsp;
 Characters don't benefit from a magic trait if it's not positive.
 &nbsp;
@@ -127,7 +127,7 @@ Characters start at level 0. Trait actions grant their actors XP equal to *c*. C
 
 # Transtribution
 
-Transtribution is the magical act of modifying traits in things, except the user's mana. For example, one can transtribute mana to warm up the room by 20T, to heal themselves by 40 STR, to cast a 20L light, or to create a creature with 25 STR initially.
+Transtribution is the magical act of modifying traits in things in the world, except the user's mana. For example, one can transtribute mana to warm up the room by 20T, to heal themselves by 40 STR, to cast a 20L light, or to create a creature with 25 STR initially.
 &nbsp;
 The latter example is how one "summons" a creature: by slowly transtributing to its traits, one transtribution per round. The creature must still be charmed to obey orders though.
 
