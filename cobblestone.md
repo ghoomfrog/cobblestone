@@ -163,7 +163,7 @@ Sizzling   |Loses 1 STR every round while chill is not positive
 
 ### Dungeons & Dragons — Inspiration
 
-### One Shot Questers — D&D Interest
+### One Shot Questers — The Most D&D Interest
 
 ### Ghoom — Game Design & Documentation
 
