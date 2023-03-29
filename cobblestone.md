@@ -49,7 +49,7 @@ Muromobility  |10|Maximum climbing speed
 Aquamobility  |10|Maximum swimming speed
 Aeromobility  |0 |Maximum flight speed
 Dexterity     |25|Physical skill
-Energy        |30|Actions require and consume 1 E. except food consumption which restores 1 E per round. At 0 E, the character undergoes the Starving condition in the next round.
+Energy        |30|Actions require and consume 1 E except food consumption which restores 1 E per round. At 0 E, the character undergoes the Starving condition in the next round.
 Sleep         |50|1 sleep is drained every round, and restored by sleeping. At 0 sleep, the character undergoes the Exhausted condition in the next round.
 Venomosity    |0 |The ability to inflict the Poisoned condition
 Immunity      |0 |Poison resistance
