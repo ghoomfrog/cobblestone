@@ -67,7 +67,7 @@ Stealth       |0 |The anti-trait of hearing
 Charisma      |20|The ability to inflict the Charmed condition
 Illusiveness  |20|The ability to inflict the Illuded condition
 Willpower     |20|The anti-trait of charisma; trying to escape a charm depends on this trait.
-Wisdom        |20|The anti-trait of illusiveness
+Wisdom        |20|The anti-trait of illusiveness; trying to escape an illusion depends on this trait.
 Intimidation  |0 |The ability to inflict the Intimidated condition
 Courage       |20|The anti-trait of intimidation; trying to overcome an intimidation depends on this trait.
 Religion      |40|Praying depends on this trait.
