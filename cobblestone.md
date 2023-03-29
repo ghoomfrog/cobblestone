@@ -53,7 +53,7 @@ Energy        |30|Actions require and consume 1 E except food consumption which 
 Sleep         |50|1 sleep is drained every round, and restored by sleeping. At 0 sleep, the character undergoes the Exhausted condition in the next round.
 Venomosity    |0 |The ability to inflict the Poisoned condition
 Immunity      |0 |Poison resistance
-Breath        |5 |1 BRE is regenerated when breathing, and consumed otherwise. At 0 BRE, the character undergoes the Suffocating condition in the next round.
+Breath        |5 |1 breath is regenerated when breathing, and consumed otherwise. At 0 breath, the character undergoes the Suffocating condition in the next round.
 Mana          |0 |Magic requires and consumes mana equal to the action criterion (explained later).
 Antimagic     |0 |The anti-trait[^anti-trait] of magic: the ability to nullify external magical effects on oneself; characters can choose to neglect this trait when targetted in trait actions.
 Warmth[^T]    |0 |Cold resistance; at 0 warmth, in cold places (below 50T), the character undergoes the Freezing condition in the next round.
