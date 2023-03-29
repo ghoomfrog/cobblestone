@@ -35,7 +35,7 @@ The game starter (GS) narrates the setting. After that, the first player in ever
 
 # Traits
 
-Things have numerical traits that control aspects of gameplay. They are measured in trait points (TP). The higher a trait is, the higher the advantage. Every character has a total of 470 TP to distribute between their traits. The value by which a trait is defined, is both its initial value and peak. The peak is a dynamic maximum that can be increased by levelling up (explained later).
+Things have numerical traits that control aspects of gameplay. They are measured in trait points (TP). The higher a trait is, the higher the advantage. Every character has a total of 540 TP to distribute between their traits. The value by which a trait is defined, is both its initial value and peak. The peak is a dynamic maximum that can be increased by levelling up (explained later).
 &nbsp;
 Characters don't benefit from a magic trait if it's not positive.
 &nbsp;
