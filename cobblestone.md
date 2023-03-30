@@ -53,7 +53,7 @@ Energy        |30|Actions require and consume 1 E except food consumption which 
 Sleep         |50|1 sleep is drained every round, and restored by sleeping. At 0 sleep, the character undergoes the Exhausted condition in the next round.
 Venomosity    |0 |The ability to inflict the Poisoned condition
 Immunity      |0 |Poison resistance
-Breath        |5 |1 breath is regenerated when breathing, and consumed otherwise. At 0 breath, the character undergoes the Suffocating condition in the next round.
+Breath        |5 |1 breath is consumed when not breathing, and regenerated otherwise[^breathing]. At 0 breath, the character undergoes the Suffocating condition in the next round.
 Mana          |0 |Magic requires and consumes mana equal to the action criterion (explained later).
 Warmth[^T]    |0 |Cold resistance; at 0 warmth, in cold places (below 50T), the character undergoes the Freezing condition in the next round.
 Chill         |0 |Heat resistance; at 0 chill, in hot places (above 50T), the character undergoes the Sizzling condition in the next round.
@@ -81,6 +81,7 @@ Telemancy     |0 |Teleportation depends on this trait.
 Luck          |50|A percentage that affects the success of trait actions (explained later)
 
 [^round]: two cycles of turns from the GS
+[^breathing]: Breathing is not an (active) action.
 [^anti-trait]: a trait representing an aspect of the world that counter a trait
 [^T]: Warmth and chill are measured in T. 50T is the optimal temperature for life.
 [^L]: Luminance is measured in L. 50L is the brightness of a typical sunny day.
@@ -139,7 +140,7 @@ Praying is similar to transtribution except that the user can use different trai
 
 # Morphing
 
-Polymorphs are characters that have other forms that they can morph into. Forms must be defined the same way as a character, and can level up alongside their polymorphs.
+Polymorphs are characters that have other forms that they can morph into. Forms must be defined the same way as a character, and can level up in parallel to their polymorphs.
 
 # Teleportation
 
