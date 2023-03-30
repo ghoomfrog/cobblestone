@@ -60,7 +60,7 @@ Chill         |0 |Heat resistance; at 0 chill, in hot places (above 50T), the ch
 Wit           |50|Intellect
 Knowledge     |20|Situational knowledge
 Eyesight      |50|Eyesight level and the radius of vision in decameters; also the anti-trait[^anti-trait] of invisibility
-Darkvision[^L]|50|The ability to see in full brightness in and below a certain luminence
+Darkvision[^L]|50|The ability to see in full brightness in and below a certain luminence; characters can't benefit from this trait if they have non-positive eyesight.
 Invisibility  |0 |The anti-trait of eyesight
 Hearing[^A]   |50|The ability to perfectly hear a certain sound amplitude and below; also the anti-trait of stealth
 Stealth       |0 |The anti-trait of hearing
