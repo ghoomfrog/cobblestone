@@ -39,7 +39,7 @@ Things in the world have numerical traits that control aspects of gameplay. They
 &nbsp;
 Characters don't benefit from non-positive traits.
 &nbsp;
-The following table lists the traits that every character has. The higher the trait, the higher the advantage.
+The following table lists the traits that every character has. The greater the trait, the greater the advantage.
 
 Trait|Typical Peak|Description
 -------------|-----------|------------------------
@@ -54,7 +54,7 @@ Sleep         |50|1 sleep is drained every round, and restored by sleeping. At 0
 Venomosity    |0 |The ability to inflict the Poisoned condition
 Immunity      |0 |Poison resistance
 Breath        |5 |1 breath is consumed when not breathing, and regenerated otherwise[^breathing]. At 0 breath, the character undergoes the Suffocating condition in the next round.
-Mana          |0 |Magic requires and consumes mana equal to the action criterion (explained later).
+Mana          |0 |Transtribution (explained later) requires and consumes mana equal to the action criterion (explained later).
 Warmth[^T]    |0 |Cold resistance; at 0 warmth, in cold places (below 50T), the character undergoes the Freezing condition in the next round.
 Chill         |0 |Heat resistance; at 0 chill, in hot places (above 50T), the character undergoes the Sizzling condition in the next round.
 Wit           |50|Intellect
@@ -72,7 +72,7 @@ Intimidation  |0 |The ability to inflict the Intimidated condition
 Courage       |20|The anti-trait of intimidation; trying to overcome an intimidation depends on this trait.
 Religion      |40|Praying depends on this trait.
 Morphability  |0 |Morphing depends on this trait.
-Transcendence |0 |Transtribution (explained later) depend on this trait.
+Transcendence |0 |Transtribution depend on this trait.
 Alchemy       |0 |Alchemy magic: the maximum mass of objects (in kilograms) that the character can transform
 Psychicness   |0 |Clairvoyance and the ability to mind-read
 Mindshield    |0 |The anti-trait of psychicness
