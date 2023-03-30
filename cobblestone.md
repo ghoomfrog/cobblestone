@@ -147,10 +147,6 @@ Teleporting something works by tagging it in one round, starting with a teleport
 &nbsp;
 The user can't do anything else in this process until they cancel the teleportation which takes up their round.
 
-&nbsp;&nbsp;
-<br><br>
-&nbsp;&nbsp;
-
 # Conditions
 
 Condition|Description
