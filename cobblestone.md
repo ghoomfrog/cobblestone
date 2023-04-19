@@ -76,7 +76,7 @@ Transcendence |0 |Transtribution depend on this trait.
 Alchemy       |0 |Alchemy magic: the maximum mass of objects (in kilograms) that the character can transform
 Psychicness   |0 |Clairvoyance and the ability to mind-read
 Mindshield    |0 |The anti-trait of psychicness
-Telekinesis   |0 |Either telekinesis range (in feet) and telekinesis strength (in kilograms) when moving things, or maximum damage when throwing things, in which case strength is the anti-trait instead of antimagic
+Telekinesis   |0 |Either telekinesis range (in feet) and telekinesis strength (in kilograms) when moving things, or maximum damage when throwing things, in which case strength is the anti-trait
 Telemancy     |0 |Teleportation depends on this trait.
 Luck          |50|A percentage that affects the success of trait actions (explained later)
 
